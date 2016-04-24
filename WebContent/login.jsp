@@ -8,7 +8,7 @@
 <title><s:text name="loginPage"/></title>
 </head>
 <body>
-welcome, login.
+welcome, login!
 <s:form action="login">
 	<s:textfield name="username" key="user"/>
 	<s:textfield name="password" key="pass"/>
